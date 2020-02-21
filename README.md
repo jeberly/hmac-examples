@@ -11,10 +11,9 @@ Example inputs:
 
 Reference outputs for example inputs above:
 
-| Type      | Hash                                                               |
-| --------- | ------------------------------------------------------------------ |
-| as hexit  | `4643978965ffcec6e6d73b36a39ae43ceb15f7ef8131b8307862ebc560e7f988` |
-| as base64 | `RkOXiWX/zsbm1zs2o5rkPOsV9++BMbgweGLrxWDn+Yg=`                     |
+| Type      | Hash                                           |
+| --------- | ---------------------------------------------- |
+| as base64 | `RkOXiWX/zsbm1zs2o5rkPOsV9++BMbgweGLrxWDn+Yg=` |
 
 ---
 
